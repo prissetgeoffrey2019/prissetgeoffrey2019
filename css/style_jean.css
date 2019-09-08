@@ -1,0 +1,47 @@
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    /* color: black; */
+}
+
+.centered {
+   float: none;
+   margin: 0 auto;
+}
+
+.text-centered {
+   text-align: center;
+}
+
+.lefted {
+   text-align: left!important;
+}
+
+.evname {
+   font-size: 13px;
+   font-style: italic;
+   text-transform: capitalize;
+   color: rgba(28,54,83,0.6);
+   font-weight: bold;
+}
+
+#intro {
+   text-align: center;
+}
+
+.btn-nav {
+   font-weight: bold;
+   color: white;
+}
+
+::placeholder {
+   color: black!important;
+}
+
+#ConfirmationNav:hover {
+   color: white;
+   background-color: #e8ca6f;
+   border-color: #e8ca6f;
+}

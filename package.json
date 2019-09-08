@@ -1,0 +1,33 @@
+{
+  "name": "wedding-website",
+  "version": "1.0.0",
+  "description": "A wedding website with loads of features.",
+  "main": "npmfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abietjean2019/abietjean2019.github.io"
+  },
+  "keywords": [
+    "wedding",
+    "template",
+    "website template"
+  ],
+  "author": "Jean Leloup",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/abietjean2019/abietjean2019.github.io",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "font-awesome": "^4.7.0",
+    "node-minify": "^3.6.0",
+    "waypoints": "^4.0.1"
+  }
+}
