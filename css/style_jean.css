@@ -45,3 +45,9 @@ select {
    background-color: #e8ca6f;
    border-color: #e8ca6f;
 }
+
+#galion-img {
+   display: flex;
+   margin:auto;
+   width: 200px;
+}
